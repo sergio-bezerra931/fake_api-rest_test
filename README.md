@@ -1,5 +1,5 @@
 # fake_api-rest_test
-## Automacao-java-selenium:: 
+## Automacao-java-rest assured: 
 ### Automação de testes funcionais
 
 Documentação:
